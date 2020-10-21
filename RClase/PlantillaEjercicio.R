@@ -8,7 +8,7 @@
 
 # Load base packages
 library(datasets) # importing datasets
-num1 <-30
+
 # LOAD AND PREPARE DATA #################
 ?iris # help about iris dataset
 df <- iris #create var called df and assign iris dataset
